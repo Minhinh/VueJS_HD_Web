@@ -1,4 +1,4 @@
-# hdprojectcos30043
+# HD Project
 
 ## Project setup
 ```
