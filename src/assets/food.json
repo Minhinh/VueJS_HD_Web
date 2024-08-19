@@ -1,0 +1,77 @@
+[
+    {
+        "title": "Boeuf Bourguignon - 19$",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/220530154825-01-a-classic-french-dishes-boeuf-bourguignon-restricted.jpg?q=w_1015,c_fill/f_webp",
+        "imageType": "jpg"
+    },
+    {
+        "title": "Bouillabaisse - 20$",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/220526165503-02-classic-french-dishes-bouillabaisse.jpg?q=w_1015,c_fill/f_webp",
+        "imageType": "jpg"
+    },
+    {
+        "title": "Au Gratin - 18$",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/220530155009-04-a-classic-french-dishes-onion-soup-restricted.jpg?q=w_1015,c_fill/f_webp",
+        "imageType": "jpg"
+    },
+    {
+        "title": "Escargot - 16$",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/220530155153-07-a-classic-french-dishes-escargots-de-bourgogne-restricted.jpg?q=w_1015,c_fill/f_webp",
+        "imageType": "jpg"
+    },
+    {
+        "title": "Salade Niçoise - 12$",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/220526170120-06-classic-french-dishes-salade-nioise.jpg?q=w_1015,c_fill/f_webp",
+        "imageType": "jpg"
+    },
+    {
+        "title": "Cassoulet - 32$",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/220526170451-08-classic-french-dishes-cassoulet.jpg?q=w_1015,c_fill/f_webp",
+        "imageType": "jpg"
+    },
+    {
+        "title": "Quiche Lorraine - 19$",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/220526172008-13-classic-french-dishes-quiche-lorraine.jpg?q=w_1015,c_fill/f_webp",
+        "imageType": "jpg"
+    },
+    {
+        "title": "Confit de canard - 24$",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/220530155739-05-a-classic-french-dishes-crpes-suzette.jpg?q=w_1110,c_fill/f_webp",
+        "imageType": "jpg"
+    },
+    {
+        "title": "Ratatouille - 18$",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/220526171611-11-classic-french-dishes-ratatouille.jpg?q=w_1015,c_fill/f_webp",
+        "imageType": "jpg"
+    },
+    {
+        "title": "Terrine - 21$",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/220527110445-18-classic-french-dishes-terrine-de-campagne.jpg?q=w_1015,c_fill/f_webp",
+        "imageType": "jpg"
+    },
+    {
+        "title": "Blanquette De Veau - 28$",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/220527111711-20-classic-french-dishes-blanquette-de-veau.jpg?q=w_1015,c_fill/f_webp",
+        "imageType": "jpg"
+    },
+    {
+        "title": "Pot-au-feu - 24$",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/220527110811-19-classic-french-dishes-pot-au-feu.jpg?q=w_1015,c_fill/f_webp",
+        "imageType": "jpg"
+    },
+    {
+        "title": "Crème brûlée - 6$",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/220526171140-10-classic-french-dishes-crme-brle.jpg?q=w_1015,c_fill/f_webp",
+        "imageType": "jpg"
+    },
+    {
+        "title": "Profiteroles - 8$",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/220526171815-12-classic-french-dishes-profiteroles.jpg?q=w_1015,c_fill/f_webp",
+        "imageType": "jpg"
+    },
+    {
+        "title": "Tarte Tatin - 5$",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/220526165638-03-classic-french-dishes-tarte-tatin.jpg?q=w_1015,c_fill/f_webp",
+        "imageType": "jpg"
+    }
+]
