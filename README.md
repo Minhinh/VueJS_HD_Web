@@ -1,3 +1,4 @@
+A JavaScript Project made with VueJS and its extension Vuetify, VueX. Axios is used to link to backend
 # HD Project
 
 ## Project setup
