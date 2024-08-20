@@ -3,6 +3,7 @@
 ### Grid design and layout using Bootstrap 5
 ### Customize color and emoji using Vuetify. 
 ### A backend site powered by PHP, phpMyAdmin, and SQL table. For handling API requests HTTP, I use Axios library.
+```
 1. Technical Requirements
 • Responsive Design: The website is implemented with Bootstrap 5 row-column 
 grid system to organize content and layout effectively, ensuring adaptability 
@@ -16,8 +17,10 @@ template html and callout under script for JavaScript to execute the actions.
 This creates interactive interfaces that respond to the user’s action. 
 • External Data Integration: API requests, with dynamic fetching and interaction 
 with SQL and backend data. Also, JSON file is used for retrieving pictures for 
-website. 
-2. Functional Requirements 
+website.
+```
+```
+3. Functional Requirements 
 The website contains some key functionalities: 
 • Usability and Accessibility: 
 • User Authentication: A nav bar with a space for administration that have 
@@ -35,7 +38,8 @@ registration, detail contents of the applicants and be able to delete the
 application. 
 • Persistent Data Storage: Data is stored through the backend SQL database via 
 phpMyAdmin server, the authorized people can create, edit, insert, delete both 
-the reviews and application. Maintaining data durability and reliability. 
+the reviews and application. Maintaining data durability and reliability.
+```
 ## Project setup
 ```
 npm install
